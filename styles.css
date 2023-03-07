@@ -1,0 +1,52 @@
+
+body {
+    background-color: white;
+    color:red;
+}
+p{
+    color:blue;
+}
+.special-p {
+    color: black;
+    font-style: italic;
+}
+.italic-text {
+    font-style: italic;
+}
+.salmon-text {
+    color: salmon;
+}
+a:link {
+    background-color: black;
+    color: white;
+}
+a:visited {
+    background-color: green;
+    color: aqua;
+}
+a :hover{
+    background-color: red;
+    color: black;
+
+
+
+
+    ///propiedades css
+}
+body {
+    font-family: tahoma;
+}
+h2 {
+    font-family: "helvetica neve";
+    font-weight: normal;
+}
+p {
+    font-size: 1,5rem;
+    line-height: 1,6;
+    text-align: justify;
+}
+a {
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: none;
+}
